@@ -5,7 +5,6 @@ Comanding Officer USS Hamilton in accordance with OpNav
 Instruction 3710.7M.
 This manual supercedes all previous written or oral rules for Smoke.
 
-
 1.	This game shall be played by no more than seven players.
 2.	The dealer will deal five cards to each player.
 3.	The dealer will turn his last card and this becomes Smoke (trump).
@@ -23,6 +22,7 @@ This manual supercedes all previous written or oral rules for Smoke.
   - Ace	Boss, The Point
   - King	Exec, Kack, No. Two
   - Queen	Lady
+  - Jack The Hook
   - Ten	The Number
   - Nine	One Below the Number
   - Seven	Buggy Top
@@ -51,9 +51,13 @@ July 25, 2009 Ammendments:
   - All changes to the official Smoke NATOPS Manual must be approved by 3/5's of the Board of Directors consisting of Christy, Sudie, Jack, Cheryl and Jim.
   - No pointing with any phalangie is permitted.
 
-
 Authenticated: J.B.Hamilton
 Administrative Officer
 ADDENDA TO SUBSTITUTE NAMES:
 Approved: K.R.Hamilton
 Commanding Officer
+
+Jan 19, 2025 Amendments:
+Alternate alias for Jack is "The Hook"
+Authenticated: C.H. Porter
+Approved: Unanimous approval by Board of Directors
